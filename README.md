@@ -1,3 +1,5 @@
+![done](./src/assets/done.png)
+
 # vuex-demo01
 
 ## Project setup
